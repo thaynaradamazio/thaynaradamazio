@@ -2,7 +2,7 @@
 
 **`Developer in progress`**
 
-Hello Everyone, welcome to my profile 👋. I'm Thaynara Damazio, a software developer student with experience in building web applications and exploring various areas of IT. 
+Hello Everyone, welcome to my profile 👋. I'm Thaynara Damazio, a passionate software developer student with experience in building web applications and exploring various areas of IT. 
 
 - Graduating in Computer Science 7/8.
 - Mainly backend.
@@ -112,7 +112,7 @@ Hello Everyone, welcome to my profile 👋. I'm Thaynara Damazio, a software dev
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
 
@@ -120,7 +120,7 @@ Hello Everyone, welcome to my profile 👋. I'm Thaynara Damazio, a software dev
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaradamazio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaradamazio&theme=tokyonight&layout=compact&custom_title=Stack&langs_count=9" 
   />
 
 </p>
